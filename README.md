@@ -1,39 +1,53 @@
-# Akila vs Sean
+# Mad Cow 10-Game Player Value Review
 
-`Mad Cow` 三人工作球探页，聚焦：
+Bilingual internal review for three Mad Cow players:
 
-- `Yang Zhou` `#23`
-- `Akila` `#88`（黑衣）/ `#69`（红色主题球衣）
-- `Sean` `#1`
+- `Yang Zhou #23`
+- `Akila #88 / #69`
+- `Sean #1`
 
-## 样本范围
+这版是队内价值比较，不是对手 scouting。重点是看 10 场样本里谁更能帮助球队赢球、谁最难替代、以及每个人最合理的使用方式。
 
-这版报告基于 YouTube 频道 `BLOL Basketball League of Legends` 的 3 场样本比赛：
+## Short Answer / 简短结论
 
-- `2026-04-16` `EAGLES v MAD COW`
-- `2026-04-23` `SPARTANS v MAD COW`
-- `2026-04-28` `KINGS v MAD COW`
+Current team-value ranking:
 
-另加你提供的号码参考图，用来确认人物对应关系。
+1. `Yang Zhou #23`
+2. `Akila #88 / #69`
+3. `Sean #1`
 
-## 这版报告是什么
+`Yang` ranks first because he creates the first layer of pressure and is the hardest role to replace.
 
-- 优先做 `角色判断`
-- 优先写 `强项 / 可放点 / 防守建议`
-- 明确区分 `高置信度的号码确认` 和 `中等置信度的角色读法`
+`Akila` is a close second because he is the best connector and lineup stabilizer.
 
-## 这版报告不是什么
+`Sean` is valuable as a catch-and-go scorer, but his best impact depends more on teammates creating the first advantage.
 
-- 不是完整逐回合 chart
-- 不是精确命中率统计
-- 不是所有触球都手工标记完的终版
+## 10-Game Sample / 10 场样本
 
-## 打开方式
+- `2026-01-15` Cardinals vs Mad Cow
+- `2026-01-29` Tigers vs Mad Cow
+- `2026-02-05` Wolves vs Mad Cow
+- `2026-02-12` Pirates vs Mad Cow
+- `2026-02-26` Bombers vs Mad Cow
+- `2026-03-12` Generals vs Mad Cow
+- `2026-03-19` Pirates vs Mad Cow
+- `2026-04-16` Eagles vs Mad Cow
+- `2026-04-23` Spartans vs Mad Cow
+- `2026-04-28` Kings vs Mad Cow
 
-直接打开 [index.html](C:\Users\12444\Documents\Codex\2026-05-17\youtube-3-https-www-youtube-com\akila-vs-sean\index.html)。
+## What This Is / 这是什么
 
-## 当前结论浓缩
+- Bilingual internal team review / 中英双语队内复盘
+- Strengths and weaknesses / 优缺点
+- Team value comparison / 队内价值比较
+- Practical role recommendations / 实际用人建议
 
-- `Yang Zhou #23` 更像强身体的一号/二号位持球点，第一任务是提前堵住直线启动。
-- `Sean #1` 更像次级得分点和接应点，不能让他舒服接球后顺步启动。
-- `Akila #88 / #69` 更像次级 creator + connector，最好让他在第二拍之前看到协防。
+## What This Is Not / 这不是什么
+
+- Not a full possession chart / 不是完整逐回合数据
+- Not a box-score model / 不是纯数据模型
+- Not an opponent scouting report / 不是对手球探报告
+
+Public page: https://bayareamadcow.github.io/akila-vs-sean/
+
+Repo entry file: [index.html](index.html).
