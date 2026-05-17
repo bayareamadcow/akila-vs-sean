@@ -30,6 +30,11 @@ a {
   color: var(--gold);
 }
 
+strong {
+  color: var(--text);
+  font-weight: 800;
+}
+
 .page-shell {
   width: min(1180px, calc(100% - 32px));
   margin: 0 auto 56px;
@@ -111,7 +116,8 @@ li {
 
 .metric-grid,
 .criteria-grid,
-.takeaway-grid {
+.takeaway-grid,
+.roster-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 14px;
@@ -119,7 +125,8 @@ li {
 
 .metric-grid article,
 .criteria-grid article,
-.takeaway-grid article {
+.takeaway-grid article,
+.roster-card {
   min-height: 100%;
   padding: 18px;
   background: rgba(255, 248, 237, 0.045);
@@ -171,7 +178,7 @@ li {
 
 table {
   width: 100%;
-  min-width: 780px;
+  min-width: 980px;
   border-collapse: collapse;
   background: rgba(255, 248, 237, 0.035);
 }
@@ -267,6 +274,35 @@ tbody tr:last-child td {
   border-top: 2px solid var(--red);
 }
 
+.roster-grid {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.roster-card {
+  display: grid;
+  gap: 14px;
+  padding: 0;
+  overflow: hidden;
+}
+
+.roster-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  background: #050504;
+  border-bottom: 1px solid var(--line);
+}
+
+.roster-card div {
+  padding: 0 16px 18px;
+}
+
+.roster-card p {
+  margin: 10px 0 0;
+  color: var(--muted);
+}
+
 .sample-list ol {
   columns: 2;
   column-gap: 44px;
@@ -296,7 +332,8 @@ tbody tr:last-child td {
   .player-card,
   .criteria-grid,
   .metric-grid,
-  .takeaway-grid {
+  .takeaway-grid,
+  .roster-grid {
     grid-template-columns: 1fr;
   }
 

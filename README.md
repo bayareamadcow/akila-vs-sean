@@ -1,26 +1,30 @@
-# Mad Cow 10-Game Player Value Review
+# Mad Cow Whole-Team Value Review
 
-Bilingual internal review for three Mad Cow players:
+Bilingual internal value review for eight Mad Cow players:
 
 - `Yang Zhou #23`
 - `Akila #88 / #69`
 - `Sean #1`
+- `Eaxin #3`
+- `Willy #26`
+- `Chris #16`
+- `Tiger #11`
+- `James #25`
 
-这版是队内价值比较，不是对手 scouting。重点是看 10 场样本里谁更能帮助球队赢球、谁最难替代、以及每个人最合理的使用方式。
+这版是队内 whole-team 价值比较，不是对手 scouting。重点是看 10 场样本里每个人怎么帮助球队赢球、谁最难替代、以及不同阵容下该怎么用。
 
 ## Short Answer / 简短结论
 
-Current team-value ranking:
+Best current core:
 
-1. `Yang Zhou #23`
+1. `Yang #23`
 2. `Akila #88 / #69`
-3. `Sean #1`
 
-`Yang` ranks first because he creates the first layer of pressure and is the hardest role to replace.
+Next rotation value depends on lineup need:
 
-`Akila` is a close second because he is the best connector and lineup stabilizer.
-
-`Sean` is valuable as a catch-and-go scorer, but his best impact depends more on teammates creating the first advantage.
+- Need attack: `Sean #1` or `Eaxin #3`
+- Need physicality: `Willy #26` or `James #25`
+- Need low-usage balance: `Chris #16` or `Tiger #11`
 
 ## 10-Game Sample / 10 场样本
 
@@ -39,7 +43,7 @@ Current team-value ranking:
 
 - Bilingual internal team review / 中英双语队内复盘
 - Strengths and weaknesses / 优缺点
-- Team value comparison / 队内价值比较
+- Whole-team value comparison / 全队价值比较
 - Practical role recommendations / 实际用人建议
 
 ## What This Is Not / 这不是什么
