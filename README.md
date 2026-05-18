@@ -1,6 +1,6 @@
-# Mad Cow Whole-Team Value Review
+# Mad Cow 20-Game Team Value Review
 
-Bilingual internal value review for eight Mad Cow players:
+Bilingual internal review for eight Mad Cow players:
 
 - `Yang Zhou #23`
 - `Akila #88 / #69`
@@ -11,46 +11,49 @@ Bilingual internal value review for eight Mad Cow players:
 - `Tiger #11`
 - `James #25`
 
-这版是队内 whole-team 价值比较，不是对手 scouting。重点是看 10 场样本里每个人怎么帮助球队赢球、谁最难替代、以及不同阵容下该怎么用。
+这版是 20 场样本的队内用人报告，不是对手 scouting。每个人都按同一套结构写：
 
-## Short Answer / 简短结论
+- 优点 / Strengths
+- 需要改进 / Needs
+- 最适合的用法 / Best Use
+- 队内价值 / Team Value
 
-Best current core:
+## Best Lineup / 最佳阵容
 
-1. `Yang #23`
-2. `Akila #88 / #69`
+Best overall five:
 
-Next rotation value depends on lineup need:
+`Yang #23`, `Akila #88/#69`, `Sean #1`, `Eaxin #3`, `James #25`
 
-- Need attack: `Sean #1` or `Eaxin #3`
-- Need physicality: `Willy #26` or `James #25`
-- Need low-usage balance: `Chris #16` or `Tiger #11`
+Why:
 
-## 10-Game Sample / 10 场样本
+- `Yang` creates the first pressure.
+- `Akila` keeps the possession connected.
+- `Sean` attacks advantages.
+- `Eaxin` gives spacing and quick decisions.
+- `James` gives screening, rebounding, and frontcourt body.
 
+## 20-Game Sample / 20 场样本
+
+- `2025-10-02` Cardinals vs Mad Cow
+- `2025-10-09` Eagles vs Mad Cow
+- `2025-10-16` Mad Cow vs Kings
+- `2025-10-23` Maroons vs Mad Cow
+- `2025-10-30` Marlins vs Mad Cow
+- `2025-11-19` Marlins vs Mad Cow
+- `2025-11-20` Generals vs Mad Cow
+- `2025-12-04` Blazers vs Mad Cow
+- `2026-01-08` Mad Cow vs Chiefs
 - `2026-01-15` Cardinals vs Mad Cow
 - `2026-01-29` Tigers vs Mad Cow
 - `2026-02-05` Wolves vs Mad Cow
 - `2026-02-12` Pirates vs Mad Cow
+- `2026-02-19` Mad Cow vs Eagles
 - `2026-02-26` Bombers vs Mad Cow
 - `2026-03-12` Generals vs Mad Cow
 - `2026-03-19` Pirates vs Mad Cow
 - `2026-04-16` Eagles vs Mad Cow
 - `2026-04-23` Spartans vs Mad Cow
 - `2026-04-28` Kings vs Mad Cow
-
-## What This Is / 这是什么
-
-- Bilingual internal team review / 中英双语队内复盘
-- Strengths and weaknesses / 优缺点
-- Whole-team value comparison / 全队价值比较
-- Practical role recommendations / 实际用人建议
-
-## What This Is Not / 这不是什么
-
-- Not a full possession chart / 不是完整逐回合数据
-- Not a box-score model / 不是纯数据模型
-- Not an opponent scouting report / 不是对手球探报告
 
 Public page: https://bayareamadcow.github.io/akila-vs-sean/
 
