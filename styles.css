@@ -117,6 +117,7 @@ li {
 .metric-grid,
 .criteria-grid,
 .takeaway-grid,
+.stat-grid,
 .lineup-grid,
 .roster-grid {
   display: grid;
@@ -127,6 +128,7 @@ li {
 .metric-grid article,
 .criteria-grid article,
 .takeaway-grid article,
+.stat-grid article,
 .lineup-grid article,
 .roster-card {
   min-height: 100%;
@@ -151,9 +153,46 @@ li {
 .metric-grid p,
 .criteria-grid p,
 .takeaway-grid p,
+.stat-grid p,
 .lineup-grid p {
   margin: 10px 0 0;
   color: var(--muted);
+}
+
+.stat-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.stat-grid h3 {
+  color: var(--green);
+  font-size: clamp(28px, 4vw, 42px);
+}
+
+.source-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.source-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 0 18px;
+  color: var(--text);
+  text-decoration: none;
+  font-weight: 800;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background:
+    linear-gradient(135deg, rgba(229, 51, 42, 0.32), rgba(255, 210, 74, 0.08)),
+    rgba(255, 248, 237, 0.045);
+}
+
+.source-links a:hover {
+  border-color: rgba(255, 210, 74, 0.72);
+  transform: translateY(-1px);
 }
 
 .section-block {
@@ -336,6 +375,7 @@ tbody tr:last-child td {
   .criteria-grid,
   .metric-grid,
   .takeaway-grid,
+  .stat-grid,
   .lineup-grid,
   .roster-grid {
     grid-template-columns: 1fr;
